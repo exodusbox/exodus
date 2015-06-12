@@ -36,6 +36,9 @@ modules.builtin
 zip/
 apollo.sh
 kernel/hz.bc
+*.rej
+*.orig
+patch-3.*
 
 #
 # Top-level generic files
