@@ -33,6 +33,10 @@ modules.builtin
 *.patch
 *.gcno
 1.patch
+zip/
+apollo.sh
+kernel/hz.bc
+
 #
 # Top-level generic files
 #
